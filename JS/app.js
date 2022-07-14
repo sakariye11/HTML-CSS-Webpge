@@ -1,3 +1,5 @@
 function muuji(){
-    alert("soo dhawaada saxibayaal");
+    let sum = 30 + 30
+
+alert(`xisaabtani isku gaynteedu waa :${sum}`)
 }
